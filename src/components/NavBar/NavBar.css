@@ -2,7 +2,7 @@ nav {}
 
 nav {
     display: flex;
-    justify-content: left;
+    justify-content: space-between;
     align-items: center;
     padding: 10px 25px;
     background: black;
@@ -14,7 +14,7 @@ nav {
 }
 
 .container-logo img {
-    width: 60%;
+    width: 250%;
 }
 
 nav ul {
